@@ -12,7 +12,7 @@ public class ReverseANumber
 
         int original=num;
         int reversed=0;
-        System.out.println("The original number is "+original);
+        System.out.println("The original number is  "+original);
 
         while(num>0)
         {
