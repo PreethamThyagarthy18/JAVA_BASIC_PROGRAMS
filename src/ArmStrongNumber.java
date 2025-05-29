@@ -6,6 +6,7 @@ public class ArmStrongNumber
         Scanner in= new Scanner(System.in);
 
         System.out.println("Enter a three digit number");
+
         int num=in.nextInt();
 
         int original=num;
