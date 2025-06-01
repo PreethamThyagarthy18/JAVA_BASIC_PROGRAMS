@@ -6,6 +6,8 @@ public class EvenOrOdd
     {
     Scanner in= new Scanner(System.in);
 
+
+
         System.out.println("Enter a Number");
         int num=in.nextInt();
 
