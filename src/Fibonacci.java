@@ -1,7 +1,9 @@
 //Program to find the Fibonacci of a series
 import java.util.Scanner;
 
-public class Fibonacci {
+public class Fibonacci
+
+{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of terms");
