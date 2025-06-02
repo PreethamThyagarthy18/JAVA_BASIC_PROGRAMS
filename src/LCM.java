@@ -14,6 +14,8 @@ public class LCM {
         int originalB = b;
 
         // GCD using Euclidean algorithm
+
+
         while (b != 0) {
             int temp = b;
             b = a % b;
